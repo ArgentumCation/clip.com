@@ -7,3 +7,4 @@
 
 ## TODOs
 - Add makefile
+- Add supported Terminals
